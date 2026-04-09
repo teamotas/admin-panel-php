@@ -1,0 +1,611 @@
+[09-Apr-2026 10:55:20 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 10:55:20 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 10:56:17 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 10:56:21 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 10:56:30 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:02:01 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:02:01 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:02:01 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:02:01 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:02:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:02:20 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:02:20 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:02:20 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:02:20 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:02:20 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:02:21 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:02:21 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:02:21 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:02:21 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:02:21 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:03:08 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:03:08 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:03:08 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:03:08 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:03:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:06:06 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:06:06 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:06:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:07:53 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:07:53 UTC] PHP Fatal error:  Uncaught Error: Class "Settings" not found in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php on line 30
+[09-Apr-2026 11:07:56 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Settings" not found in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php on line 30
+[09-Apr-2026 11:07:58 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:07:58 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:07:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:08:01 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:08:01 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:08:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:08:03 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Settings" not found in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php on line 30
+[09-Apr-2026 11:08:09 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:08:09 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:08:09 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:08:09 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:08:09 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:08:10 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:08:10 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:08:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:08:11 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:08:11 UTC] PHP Fatal error:  Uncaught Error: Class "Settings" not found in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php on line 30
+[09-Apr-2026 11:09:16 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:09:16 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(32): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:12:01 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:12:01 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:12:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:12:11 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(32): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:12:14 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:12:14 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:12:14 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:12:14 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:12:14 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:12:20 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:12:20 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:12:20 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:13:23 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:13:23 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:13:23 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:13:23 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:13:23 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:14:26 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(28): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:14:47 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:14:47 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:14:47 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:14:47 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:14:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:15:15 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:15:15 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:15:15 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:15:15 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:15:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:15:35 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:15:35 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:15:35 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:15:35 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:15:35 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:15:37 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:15:37 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:15:37 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:15:37 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:15:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:15:40 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:15:40 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:15:40 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:15:40 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:15:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:17:38 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:17:38 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:17:38 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:18:25 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:18:25 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:18:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:19:30 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:19:30 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:19:30 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:19:37 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:19:37 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(28): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:19:52 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:19:52 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:19:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:22:45 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:22:45 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:22:45 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:23:32 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:23:32 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:23:32 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:23:32 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:23:32 UTC] PHP Warning:  Undefined variable $contact_entries in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 211
+[09-Apr-2026 11:23:32 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 211
+[09-Apr-2026 11:23:32 UTC] PHP Warning:  Undefined variable $contact_entries in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 260
+[09-Apr-2026 11:23:44 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:23:44 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:23:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:23:51 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:23:51 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:23:51 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:23:51 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:23:51 UTC] PHP Warning:  Undefined variable $contact_entries in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 211
+[09-Apr-2026 11:23:51 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 211
+[09-Apr-2026 11:23:51 UTC] PHP Warning:  Undefined variable $contact_entries in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 260
+[09-Apr-2026 11:23:53 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:23:53 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:23:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:23:55 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:23:55 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:23:55 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:23:55 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:23:55 UTC] PHP Warning:  Undefined variable $contact_entries in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 211
+[09-Apr-2026 11:23:55 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 211
+[09-Apr-2026 11:23:55 UTC] PHP Warning:  Undefined variable $contact_entries in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 260
+[09-Apr-2026 11:23:58 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(28): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:28:03 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:28:03 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:28:03 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:28:05 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:28:05 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:28:05 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:28:08 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:28:08 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:28:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:28:09 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(28): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:28:11 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:28:11 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:28:11 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:28:11 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:28:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:29:39 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:29:39 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:29:39 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:29:49 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:29:49 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:29:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:29:53 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(28): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:30:51 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:30:51 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:30:51 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:30:52 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:30:52 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:30:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:30:53 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:30:53 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:30:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:30:57 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:30:57 UTC] Get user error: Unknown column 'role' in 'field list'
+[09-Apr-2026 11:30:57 UTC] Get enquiries error: Unknown column 'subject' in 'field list'
+[09-Apr-2026 11:30:57 UTC] Dashboard error: Unknown column 'status' in 'where clause'
+[09-Apr-2026 11:30:57 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:164
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(164): mysqli->close()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php(171): Database->close()
+#2 [internal function]: Database->__destruct()
+#3 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 164
+[09-Apr-2026 11:32:37 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:32:37 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:33:03 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:33:04 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:33:04 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:33:04 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:33:05 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:33:05 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:33:05 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:33:06 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:33:06 UTC] PHP Fatal error:  Uncaught Error: Call to private Database::__construct() from scope Settings in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:9
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(39): Settings->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 9
+[09-Apr-2026 11:34:11 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:34:11 UTC] PHP Warning:  require_once(/Database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Database.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:2
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:12 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:34:12 UTC] PHP Warning:  require_once(/Database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Database.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:2
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:12 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:34:12 UTC] PHP Warning:  require_once(/Database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Database.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:2
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:12 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:34:12 UTC] PHP Warning:  require_once(/Database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:34:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Database.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:2
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:37:20 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:20 UTC] PHP Warning:  require_once(/Database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:37:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Database.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php:2
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\pages\settings.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Settings.php on line 2
+[09-Apr-2026 11:37:22 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::getUser() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\account.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\account.php on line 26
+[09-Apr-2026 11:37:23 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:24 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:24 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:25 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:25 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:25 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:26 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 27
+[09-Apr-2026 11:37:28 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\dashboard.php on line 27
+[09-Apr-2026 11:37:29 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:37:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 11:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getInstance() in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\pages\enquiries.php on line 27
+[09-Apr-2026 11:37:36 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 17:07:36 Asia/Kolkata] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 13
+[09-Apr-2026 17:07:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::getCSRFToken() in C:\xampp\htdocs\New folder\bloomy\admin2\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\index.php on line 15
+[09-Apr-2026 11:38:10 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 17:08:10 Asia/Kolkata] PHP Warning:  require_once(C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 8
+[09-Apr-2026 17:08:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:8
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php(4): require_once()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\index.php(6): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 8
+[09-Apr-2026 11:38:11 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 17:08:11 Asia/Kolkata] PHP Warning:  require_once(C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 8
+[09-Apr-2026 17:08:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php:8
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php(4): require_once()
+#1 C:\xampp\htdocs\New folder\bloomy\admin2\index.php(6): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Database.php on line 8
+[09-Apr-2026 11:38:23 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:38:23 UTC] PHP Warning:  require_once(C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 8
+[09-Apr-2026 11:38:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php:8
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\index.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 8
+[09-Apr-2026 11:38:24 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:38:24 UTC] PHP Warning:  require_once(C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 8
+[09-Apr-2026 11:38:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php:8
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\index.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 8
+[09-Apr-2026 11:38:25 UTC] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\New folder\bloomy\admin2\config.php on line 53
+[09-Apr-2026 11:38:25 UTC] PHP Warning:  require_once(C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 8
+[09-Apr-2026 11:38:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\New folder\bloomy\admin2\core../config.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php:8
+Stack trace:
+#0 C:\xampp\htdocs\New folder\bloomy\admin2\index.php(6): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\New folder\bloomy\admin2\core\Auth.php on line 8
